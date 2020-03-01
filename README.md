@@ -15,7 +15,9 @@ Reference:
 
 ## Dataset setup
 1. download checkpoints
-
+        
+        # in the root directory, make a folder called checkpoint 
+        mkdir checkpoint
         cd checkpoint
         wget https://dl.fbaipublicfiles.com/video-pose-3d/pretrained_h36m_detectron_coco.bin
 
