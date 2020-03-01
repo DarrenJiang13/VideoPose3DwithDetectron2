@@ -2,13 +2,15 @@
 
 This project is about estimating 3D human pose from customized 2D video, whose 2D keypoints are provided by detectron2 rather than detectron.
 
+![Alt Text](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/Documents/example.gif)
+
 Reference: 
 - [VideoPose3D Project](https://github.com/facebookresearch/VideoPose3D)
 - [VideoPose3D_with_Detectron2](https://github.com/darkAlert/VideoPose3d_with_Detectron2)
 
 ## Configure your computer
-1. Install Nvidia Driver,CUDA10.1,cuDNN 7.6.5,pytorch, see [this]
-2. Install detectron2, see[this]
+1. Install Nvidia Driver,CUDA10.1,cuDNN 7.6.5,pytorch, see [this](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/detectron2/Configuration/Configuration.md)
+2. Install detectron2, see[this](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/detectron2/Configuration/Detectron2Installation.md)
 
 ## Dataset setup
 1. download checkpoints
