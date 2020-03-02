@@ -86,7 +86,7 @@ we can use the **first 3 members of IMAGE ID** to run the image. like for "video
 or 
 
     sudo docker run --gpus all -it video-pose-infer-demo:v1
-
+If you want to automatically remove the container when it exits, use `--rm` tag in the command.  
 Congratulations! now you are in the docker image.
     
 ## 6. Run the project
