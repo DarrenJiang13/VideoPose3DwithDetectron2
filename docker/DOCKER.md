@@ -59,7 +59,7 @@ for **Ubuntu 18.04**
 check your docker:
   
         #### Test nvidia-smi with the latest official CUDA image
-        docker run --gpus all nvidia/cuda:10.0-base nvidia-smi
+        sudo docker run --gpus all nvidia/cuda:10.0-base nvidia-smi
   you should see a output of your gpu conditions.
   
 ## 3. Build docker image for this project 
