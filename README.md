@@ -63,5 +63,5 @@ In the docker image:
         sudo docker cp [container_id]:/home/appuser/video_pose_repo/output/[you_video_name].mp4 .
    
 ## AWS instance:
-- build a Amazon EC2 instance, see [this](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/AWS/AWSConfiguration.md)
+- Build a Amazon EC2 instance, see [this](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/AWS/AWSConfiguration.md)
 - Implement your project on your instance , see [this](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/AWS/ProjectConfiguration.md)
