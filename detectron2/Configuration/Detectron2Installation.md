@@ -17,4 +17,4 @@
 - install Pre-Built Detectron2 for cuda 10.1:
         
         # for CUDA 10.1:
-        pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/index.html
+        pip3 install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/index.html

@@ -1,6 +1,10 @@
 # VideoPose3D project with detectron2
 
-This project is about estimating 3D human pose from customized 2D video, whose 2D keypoints are provided by detectron2 rather than detectron.
+This project is about estimating 3D human pose from customized 2D video, 
+whose 2D keypoints are provided by detectron2 rather than detectron. 
+This project is mainly about how to implement video-pose-3D project of facebook research 
+for inference in the wild in your own computer. 
+Instead of detectron, we use detectron2 here.
 
 ![Alt Text](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/images/example.gif)
 
