@@ -62,7 +62,7 @@ For how to use the pre-trained model, please see the next step.
 ## Docker:
 You can directly run the dockerfile as all the files needed in dockerfile can be download online.
 For the dockerfile and more details about dockerizing this project.  
-Please go to [docker](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/docker)
+Please go to [docker](https://github.com/DarrenJiang13/VideoPose3DwithDetectron2/blob/master/docker.md)
 
 To pull this docker image from docker hub:
 
